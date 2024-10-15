@@ -1,0 +1,9 @@
+header{
+    position: absolute;
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+    height: 25px;
+    border-bottom: 1px solid rgb(0, 26, 255);
+}
+
